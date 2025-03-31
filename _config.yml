@@ -24,10 +24,10 @@ baseurl: ""  # Leave blank for your user site
 url: "https://RyanCaldwell360.github.io"
 
 header_pages:
-  - projects.html
-  - blog.html
   - about.md
   - career.md
+  - projects.html
+  - blog.html
 
 collections:
   projects:
